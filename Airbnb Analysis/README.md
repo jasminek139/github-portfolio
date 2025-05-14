@@ -2,7 +2,7 @@ Dashboard Overview – Airbnb Profitability Analysis
 This dashboard was created in Tableau to help answer the key question:
 
 “What type of Airbnb listing is most profitable for a new host, based on location, room type, and number of bedrooms?”
-
+The dataset is from : https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 The dashboard breaks this down using four key visualizations:
 
 🛏️ Average Price per Bedroom
