@@ -7,7 +7,7 @@ The dashboard breaks this down using four key visualizations:
 
 🛏️ Average Price per Bedroom
 This bar chart shows how the average nightly price increases with the number of bedrooms
-Listings with more bedrooms tend to command higher nightly prices, but they are less common. The table on the right shows how many listings exist for each bedroom count (e.g., most listings are 1-bedrooms).
+Listings with more bedrooms tend to command higher nightly prices, but they are less common. The table on the right shows how many listings exist for each bedroom count.
 
 📍 Price per Zip Code (Map View)
 The map highlights average prices by zip code, showing which areas are more expensive.
