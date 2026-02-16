@@ -1,23 +1,49 @@
-# 📊 Data Analyst Portfolio
+# 📊 Jasmine Kaphle | Data Analyst Portfolio  
 
-Hi! I'm Jasmine, an aspiring Data Analyst currently looking for an internship opportunity. This portfolio highlights my work in data analysis using **Tableau**, **Excel**, and **SQL**.
+Hello! I’m **Jasmine Kaphle**, an aspiring **Data Analyst** seeking internship opportunities where I can apply data-driven problem-solving to real-world business challenges. This portfolio showcases projects that demonstrate my analytical, technical, and visualization skills using **Tableau**, **Excel**, and **SQL**.
 
-## 🔧 What’s Inside
+---
 
-This repository contains a collection of projects that demonstrate my ability to:
-- Clean and analyze datasets
-- Write effective SQL queries
-- Build interactive dashboards with Tableau
-- Create Excel reports and visualizations
+## 🔎 About This Portfolio  
 
-## 📁 Tools & Skills
+This repository highlights hands-on projects focused on transforming raw data into meaningful insights. Each project reflects my ability to:
 
-- **Tools:** Tableau, Excel, SQL  
-- **Skills:** Data Cleaning, Visualization, Dashboarding, SQL Queries, Data Interpretation
+- Clean, organize, and prepare datasets for analysis  
+- Write optimized SQL queries to extract and manipulate data  
+- Build interactive dashboards in Tableau  
+- Develop professional Excel reports and visualizations  
+- Interpret data trends to support decision-making  
 
-## 📬 Contact
+---
 
-- 📧 Email: jasminekaphle2004@gmail.com  
-- 📄 Resume:
+## 🛠 Technical Skills  
 
-Thanks for visiting my portfolio!
+**Tools:**  
+- Tableau  
+- Microsoft Excel  
+- SQL  
+
+**Core Competencies:**  
+- Data Cleaning & Preparation  
+- Data Visualization  
+- Dashboard Development  
+- SQL Query Writing  
+- Data Analysis & Interpretation  
+- Reporting & Business Insights  
+
+---
+
+## 📁 Featured Projects   
+
+- 📊 **COVID-19 Impact & Recovery Analysis* – Brief description of what problem you solved and tools used.  
+- 📈 **Job Market & Salary Trends Analysis* – Brief description of analysis and key insight.  
+- 🗄 **Sales Performance & Customer Segmentation Dashboard* – SQL-based project with query optimization and reporting.  
+
+---
+## 📬 Contact  
+
+📧 **Email:** jasminekaphle2004@gmail.com  
+📄 **Resume:** [Insert Resume Link Here]   
+---
+
+Thank you for reviewing my portfolio. I am eager to contribute analytical skills, attention to detail, and a strong learning mindset to a data-driven team.
