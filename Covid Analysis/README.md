@@ -76,5 +76,4 @@ Used to simplify complex queries and improve readability.
 ### ✔ Window Functions
 - Rolling totals
 - Partitioned calculations using:
-  ```sql
-  SUM(new_cases) OVER (PARTITION BY location ORDER BY date)
+  sql
