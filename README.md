@@ -1,6 +1,6 @@
 # 📊 Jasmine Kaphle | Data Analyst Portfolio  
 
-Hello! I’m **Jasmine Kaphle**, an aspiring **Data Analyst** seeking internship opportunities where I can apply data-driven problem-solving to real-world business challenges. This portfolio showcases projects that demonstrate my analytical, technical, and visualization skills using **Tableau**, **Excel**, and **SQL**.
+Hello! I’m **Jasmine Kaphle**, an aspiring **Data Analyst** seeking internship and job opportunities where I can apply data-driven problem-solving to real-world business challenges. This portfolio showcases projects that demonstrate my analytical, technical, and visualization skills using **Tableau**, **Excel**, and **SQL**.
 
 ---
 
@@ -35,13 +35,13 @@ This repository highlights hands-on projects focused on transforming raw data in
 
 ## 📁 Featured Projects   
 
-- 📊 **COVID-19 Impact & Recovery Analysis* – Brief description of what problem you solved and tools used.  
-- 📈 **Job Market & Salary Trends Analysis* – Brief description of analysis and key insight.  
-- 🗄 **Sales Performance & Customer Segmentation Dashboard* – SQL-based project with query optimization and reporting.  
-
+- 📊 **COVID-19 Impact & Recovery Analysis* – Used SQL in Azure Data Studio to analyze global case and mortality trends, calculating infection and death rates to evaluate the pandemic’s impact across countries and over time.  
+- 🗄 **Sales Performance & Customer Segmentation Dashboard* - Built an interactive Tableau dashboard to analyze revenue trends and identify high-value customer segments using cleaned Excel data.
+- Airbnb Market Analysis
+- Bike Sales Anlaysis
+- 📈 **Job Market & Salary Trends Analysis* – Analyzed job listings and salary data to identify high-demand roles, emerging skill requirements, and compensation trends, revealing strong growth in data-focused positions and skill-based salary premiums.
 ---
 ## 📬 Contact  
-
 📧 **Email:** jasminekaphle2004@gmail.com  
 ---
 
