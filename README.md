@@ -43,7 +43,6 @@ This repository highlights hands-on projects focused on transforming raw data in
 ## 📬 Contact  
 
 📧 **Email:** jasminekaphle2004@gmail.com  
-📄 **Resume:** [Insert Resume Link Here]   
 ---
 
 Thank you for reviewing my portfolio. I am eager to contribute analytical skills, attention to detail, and a strong learning mindset to a data-driven team.
